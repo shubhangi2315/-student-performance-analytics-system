@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,Mathematics,Electronics,Communication,Attendance,Total_Marks,Average_Marks,Grade,Result
+STU001,Aarav Sharma,ENTC,85,78,92,88,90,343,85.75,A,Pass
+STU002,Priya Patil,Computer,91,89,94,92,95,366,91.5,A+,Pass
+STU003,Rohan Jadhav,Mechanical,65,72,68,70,82,275,68.75,C,Pass
+STU004,Sneha Kulkarni,ENTC,78,84,80,82,86,324,81.0,A,Pass
+STU005,Aditya Deshmukh,Computer,55,61,58,63,67,237,59.25,D,Pass
+STU006,Isha More,Civil,88,92,85,90,93,355,88.75,A,Pass
+STU007,Om Shinde,ENTC,42,48,45,51,55,186,46.5,D,Pass
+STU008,Ananya Joshi,Computer,95,93,97,96,94,381,95.25,A+,Pass
+STU009,Sahil Pawar,Mechanical,73,69,76,71,78,289,72.25,B,Pass
+STU010,Kavya Bhosale,Civil,82,86,80,84,88,332,83.0,A,Pass
+STU011,Vedant Kale,ENTC,60,57,64,62,66,243,60.75,C,Pass
+STU012,Aditi Chavan,Computer,87,90,88,91,89,356,89.0,A,Pass
+STU013,Atharva Gawali,Civil,38,44,41,47,50,170,42.5,D,Pass
+STU014,Mrunal Salunkhe,ENTC,76,79,74,81,83,310,77.5,B,Pass
+STU015,Yash Nimbalkar,Mechanical,68,65,70,67,72,270,67.5,C,Pass
+STU016,Rutuja Pawar,Computer,92,88,95,90,93,365,91.25,A+,Pass
+STU017,Neel Joshi,Civil,49,52,46,55,58,202,50.5,D,Pass
+STU018,Sakshi Wagh,ENTC,84,81,87,85,89,337,84.25,A,Pass
+STU019,Tanmay Thorat,Mechanical,71,74,69,73,77,287,71.75,B,Pass
+STU020,Pooja Gaikwad,Computer,80,85,82,87,90,334,83.5,A,Pass
